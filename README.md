@@ -12,11 +12,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
-- ✉️ &nbsp;You can shoot me an email at osamasamra9@gmail.com! I'll try to respond as soon as I can
+- 🔭 I’m currently working on Flutter Projects
+- 🌱 I've 14+ months of professional experience worked at built three cross-platform applications in Flutter
+- 👯 I’m looking to collaborate on Flutter, laravel Projects
+- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
+- 💬 Ask me about Programming .
 
 
 ## 🔧 Technologies & Tools
