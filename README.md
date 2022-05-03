@@ -1,7 +1,7 @@
 ### Hi there, I'm Osama  👋 
 
-[![Linkedin:Yassin](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassin-abdulmahdi/)](https://www.linkedin.com/in/osama-abo-samra-225105218/)
-[![Instagram:Yassin](https://img.shields.io/badge/-Yassin-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yaseen_almahdi5/)](https://www.instagram.com/osama._.samra/)
+[![Linkedin:Osama](https://img.shields.io/badge/-Yassin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osama-abo-samra-225105218/)](https://www.linkedin.com/in/osama-abo-samra-225105218/)
+[![Instagram:Osama](https://img.shields.io/badge/-Yassin-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/osama._.samra/)](https://www.instagram.com/osama._.samra/)
 
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
